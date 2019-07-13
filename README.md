@@ -1,2 +1,7 @@
 # PytorchCourse
-This repo contains my notes and some tutorials for the udacity Pytorch course
+This repo contains my notes and tutorials generated from the Udacity Course: Pytorch with Developer Circles from Facebook
+
+##Table of Contents:
+- Intro to Pytorch [](test_dir)
+
+
