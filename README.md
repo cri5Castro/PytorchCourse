@@ -14,7 +14,7 @@ This repo contains my notes and tutorials generated from the Udacity Course: Pyt
   - Transfer Learning
   - GPU training
 
-- [CNNs in Pytorch](02_CNNs_in_Pytorch.ipynb.ipynb)
+- [CNNs in Pytorch](02_CNNs_in_Pytorch.ipynb)
   - Introduction to Image filters
   - Convolutional Layers demo 
   - Pooling Layers demo
